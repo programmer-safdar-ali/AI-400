@@ -1,8 +1,8 @@
 # AI-400: Cloud-Native AI
 
-Learn Dapr, Docker & Kubernetes with AI-Driven Development (AIDD)
+Learning  FastAPI, Dapr, Docker & Kubernetes with AI-Driven Development (AIDD)
 
-Build cloud-native infrastructure for intelligent agent systems. Using AI-Driven Development (AIDD), you'll learn Docker, Kubernetes, and Dapr to design and deploy production-ready AI agents with observability, scalability, and cloud-agnostic flexibility — laying the foundation for autonomous AI at scale.
+Building cloud-native infrastructure for intelligent agent systems. Using AI-Driven Development (AIDD), learning Fastapi, Docker, Kubernetes, and Dapr to design and deploy production-ready AI agents with observability, scalability, and cloud-agnostic flexibility — laying the foundation for autonomous AI at scale.
 
 ## Course Overview
 
